@@ -17,6 +17,7 @@ public class Git {
 
 		System.out.println("Seventh line of code");
 		System.out.println("Eight line of code");
+		System.out.println("First line of code in test");
 
 	}
 	
