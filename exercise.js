@@ -1,0 +1,1 @@
+$('#fiboSubmit').on('click', runFib);
