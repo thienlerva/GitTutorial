@@ -3,3 +3,10 @@ body {
     font-family: 'Courier New', Courier, monospace;
     font-size: 14px;
 }
+
+#title {
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 4%;
+    text-align: center;
+}
